@@ -6,6 +6,6 @@ https://blog.ithillel.ua/articles/how-to-configure-sqlalchemy-sqlmodel-and-alemb
 git init  
 git add .  
 git commit -m "Add existing project files to Git"   
-git remote add origin https://github.com/cameronmcnz/example-website.git   
+git remote add origin https://github.com/....      
 git push -u -f origin master   
 
